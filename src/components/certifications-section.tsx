@@ -20,7 +20,7 @@ const certifications = [
     name: "Python Essentials – Cisco ",
     issuer: "Cisco",
     year: "2025",
-    icon: "/assest/cisco.svg",
+    icon: "/assest/Cisco.svg",
   },
   {
     name: "SQL and Relational Databases 101 – IBM",
