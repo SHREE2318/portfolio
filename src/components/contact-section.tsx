@@ -39,7 +39,7 @@ export function ContactSection() {
           className={`backdrop-blur-md bg-card/50 border border-primary/20 rounded-xl p-12 transition-all duration-700 hover:border-primary/40 hover:bg-card/70 ${isVisible ? "fade-in-up" : "opacity-0"}`}
           style={{ transitionDelay: "200ms" }}
         >
-          <div className="grid md:grid-cols-2 gap-8 mb-8">
+          <div className="flex flex-col justify-center item-center gap-8 mb-8">
             <div>
               <h3 className="text-lg font-semibold text-primary mb-2">Email</h3>
               <a
